@@ -22,12 +22,14 @@ Along with those metrics, she wanted to see a school summary and a district summ
 
 Overall, the effect on the district summary is very minimal. The largest changes that we can observe here are the reductions in the overall passing percentage, as well as, the passing math and reading percentages by about 1% each. The changes make sense since we didn't affect much on the overall district level. Below is the newest district summary. <br>
 
+* Table: District Summary
 ![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/District%20Summary.png)
 
 ## Effect on School Summary
 
 Similarly, we can see minimal change in the school overall averages. There are actually slightly positive changes to the data set, which could be due to better score averages amongst the other three grades. These shifts are about 1% as well. Below is the newest school summary with Thomas High School as the third to last school. <br>
 
+* Table: School Summary
 ![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/School%20Summary.png)
 
 However, the largest changes for Thomas High School come in the form of overall school perfomance. In the school summary above, we can see that the overall passing percentages for Thomas High School have plummetted. 
@@ -38,8 +40,19 @@ However, the largest changes for Thomas High School come in the form of overall 
 
 Moreover, these changes in the passing percentages for Thomas High School has shifted them from being a top 5 school (was number 2) to be the eighth ranked school in our dataset. The new top 5 perfoming school can be seen in the image below. 
 
+* Table: Top 5 Schools Summary
 ![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/Top%205%20Schools.png)
 
-
 ## Additional School Effects By Grade
+
+### Math and Reading Scores By Grade
+
+The only change to the math and reading scores by grade was the replacment of the scores for Thomas High School. Below are the updated math and reading scores by grade. 
+
+* Table: Reading Scores By Grade <br>
+![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/Reading%20Scores%20By%20Grade.png)
+
+* Table: Math Scores By Grade
+![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/Math%20Scores%20By%20Grade.png)
+
 
