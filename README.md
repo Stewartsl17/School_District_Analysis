@@ -90,6 +90,16 @@ Changing the ninth grade scores has shifted some of the numbers when looking at 
 
 In the Charter school row, we can observe some changes from the original data set. These shifts are: 
 
-* % Passing Math: 94% --> 88%
-* % Passing Reading: 97% --> 91% 
-* % Overall Passing: 91% --> 85% 
+* % Passing Math: 94% --> 90%
+* % Passing Reading: 97% --> 93% 
+* % Overall Passing: 90% --> 87% 
+
+## Summary 
+
+Based of the removal of Thomas High School's ninth grade math and reading scores, there are changes to the overall analysis of the school district: 
+
+1. We had to recalculate the summaries for the district overall as well as the school. On the district level, there was minimal changes to the data (about 1%). However, when recalculating the school percentages, there were huge changes to the passing percentages (between 26 and 27%).
+2. We had to recalculate the scores by school spending, which shifted the passing percentages between 6 and 7%. 
+3. We had to recalculate the scores by school size, which shifted the passing percentages between 6 and 7%. 
+4. We had to recalculate the scores by school type, which shifted the passing percentages of charter school between 3 and 4%. 
+5. When looking at the scores by class grade, we can see that there are removed values (replaced NaN) for the ninth grade math and reading scores.
