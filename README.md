@@ -52,7 +52,44 @@ The only change to the math and reading scores by grade was the replacment of th
 * Table: Reading Scores By Grade <br>
 ![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/Reading%20Scores%20By%20Grade.png)
 
-* Table: Math Scores By Grade
+* Table: Math Scores By Grade <br>
 ![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/Math%20Scores%20By%20Grade.png)
 
+### Scores by School Spending 
 
+Changing the ninth grade scores has shifted some of the numbers when looking at scores by school spending. Below is the updated image of school spending by scores.
+
+* Table: Scores By School Spending <br>
+![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/Scores%20By%20School%20Spending.png)
+
+In the third spending bin, $630-$644 , we can observe some changes from the original dataset. These shifts are: 
+
+* % Passing Math: 73% --> 67%
+* % Passing Reading: 84% --> 77% 
+* % Overall Passing: 63% --> 56% 
+
+### Scores by School Size
+
+Changing the ninth grade scores has shifted some of the numbers when looking at scores by school size. Below is the updated image of school size by scores.
+
+* Table: Scores By School Size <br>
+![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/Scores%20By%20School%20Size.png)
+
+In the second size bin, Medium (1000-2000), we can observe some changes from the original dataset. These shifts are: 
+
+* % Passing Math: 94% --> 88%
+* % Passing Reading: 97% --> 91% 
+* % Overall Passing: 91% --> 85% 
+
+### Scores by School Type
+
+Changing the ninth grade scores has shifted some of the numbers when looking at scores by school type. Below is the updated image of school type by scores.
+
+* Table: Scores By School Type <br>
+![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/Scores%20By%20School%20Type%20.png)
+
+In the Charter school row, we can observe some changes from the original data set. These shifts are: 
+
+* % Passing Math: 94% --> 88%
+* % Passing Reading: 97% --> 91% 
+* % Overall Passing: 91% --> 85% 
