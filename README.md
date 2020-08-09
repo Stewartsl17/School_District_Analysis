@@ -9,7 +9,7 @@ Maria, the chief Data Scientist for a school district, has asked for our help an
   * The average reading score for each grade level from each school
   * The scores by school spending per student, by school size, and by school type
 
-Along with those metrics, she wanted to see a school summary and a district summary to overall trends. After submitting these metrics, the School Board has notified Maria that there are altered grades for Thomas High School and has additionally tasked us with removing their ninth grade math and reading scores and to assess what changes that has made to the data set. 
+Along with those metrics, she wanted to see a school summary and a district summary to overall trends. After submitting these metrics, the School Board has notified Maria that there are altered grades for Thomas High School and has additionally tasked us with removing their ninth-grade math and reading scores and to assess what changes that has made to the data set. 
 
 # Resources
 
@@ -32,13 +32,13 @@ Similarly, we can see minimal change in the school overall averages. There are a
 * Table: School Summary
 ![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/School%20Summary.png)
 
-However, the largest changes for Thomas High School come in the form of overall school perfomance. In the school summary above, we can see that the overall passing percentages for Thomas High School have plummetted. 
+However, the largest changes for Thomas High School come in the form of overall school performance. In the school summary above, we can see that the overall passing percentages for Thomas High School have plummeted. 
 
 * % Passing Math: 93% --> 67%
 * % Passing Reading: 97% --> 70% 
 * % Overall Passing: 91% --> 65% 
 
-Moreover, these changes in the passing percentages for Thomas High School has shifted them from being a top 5 school (was number 2) to be the eighth ranked school in our dataset. The new top 5 perfoming school can be seen in the image below. 
+Moreover, these changes in the passing percentages for Thomas High School has shifted them from being a top 5 school (was number 2) to be the eighth ranked school in our dataset. The new top 5 performing school can be seen in the image below. 
 
 * Table: Top 5 Schools Summary
 ![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/Top%205%20Schools.png)
@@ -47,7 +47,7 @@ Moreover, these changes in the passing percentages for Thomas High School has sh
 
 ### Math and Reading Scores By Grade
 
-The only change to the math and reading scores by grade was the replacment of the scores for Thomas High School. Below are the updated math and reading scores by grade. 
+The only change to the math and reading scores by grade was the replacement of the scores for Thomas High School. Below are the updated math and reading scores by grade. 
 
 * Table: Reading Scores By Grade <br>
 ![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/Reading%20Scores%20By%20Grade.png)
@@ -57,12 +57,12 @@ The only change to the math and reading scores by grade was the replacment of th
 
 ### Scores by School Spending 
 
-Changing the ninth grade scores has shifted some of the numbers when looking at scores by school spending. Below is the updated image of school spending by scores.
+Changing the ninth-grade scores has shifted some of the numbers when looking at scores by school spending. Below is the updated image of school spending by scores.
 
 * Table: Scores By School Spending <br>
 ![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/Scores%20By%20School%20Spending.png)
 
-In the third spending bin, $630-$644 , we can observe some changes from the original dataset. These shifts are: 
+In the third spending bin, $630-$644, we can observe some changes from the original dataset. These shifts are: 
 
 * % Passing Math: 73% --> 67%
 * % Passing Reading: 84% --> 77% 
@@ -70,7 +70,7 @@ In the third spending bin, $630-$644 , we can observe some changes from the orig
 
 ### Scores by School Size
 
-Changing the ninth grade scores has shifted some of the numbers when looking at scores by school size. Below is the updated image of school size by scores.
+Changing the ninth-grade scores has shifted some of the numbers when looking at scores by school size. Below is the updated image of school size by scores.
 
 * Table: Scores By School Size <br>
 ![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/Scores%20By%20School%20Size.png)
@@ -83,7 +83,7 @@ In the second size bin, Medium (1000-2000), we can observe some changes from the
 
 ### Scores by School Type
 
-Changing the ninth grade scores has shifted some of the numbers when looking at scores by school type. Below is the updated image of school type by scores.
+Changing the ninth-grade scores has shifted some of the numbers when looking at scores by school type. Below is the updated image of school type by scores.
 
 * Table: Scores By School Type <br>
 ![](https://github.com/Stewartsl17/School_District_Analysis/blob/master/Resources/Scores%20By%20School%20Type%20.png)
@@ -96,10 +96,10 @@ In the Charter school row, we can observe some changes from the original data se
 
 ## Summary 
 
-Based of the removal of Thomas High School's ninth grade math and reading scores, there are changes to the overall analysis of the school district: 
+Based on the removal of Thomas High School's ninth grade math and reading scores, there are changes to the overall analysis of the school district: 
 
 1. We had to recalculate the summaries for the district overall as well as the school. On the district level, there was minimal changes to the data (about 1%). However, when recalculating the school percentages, there were huge changes to the passing percentages (between 26 and 27%).
 2. We had to recalculate the scores by school spending, which shifted the passing percentages between 6 and 7%. 
 3. We had to recalculate the scores by school size, which shifted the passing percentages between 6 and 7%. 
 4. We had to recalculate the scores by school type, which shifted the passing percentages of charter school between 3 and 4%. 
-5. When looking at the scores by class grade, we can see that there are removed values (replaced NaN) for the ninth grade math and reading scores.
+5. When looking at the scores by class grade, we can see that there are removed values (replaced NaN) for the ninth-grade math and reading scores.
